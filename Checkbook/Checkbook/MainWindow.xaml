@@ -1,0 +1,40 @@
+﻿<Window x:Class="Checkbook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Checkbook"
+        mc:Ignorable="d"
+        Title="Checkbook" Height="555.882" Width="525" Loaded="Window_Loaded">
+    <Grid Background="{DynamicResource {x:Static SystemColors.InfoBrushKey}}">
+        <Label x:Name="transactionsLabel" Content="Transactions:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.217,0.189"/>
+        <ListBox x:Name="transactionListBox" Margin="10,36,261,0" RenderTransformOrigin="0.177,0.462" Background="{DynamicResource {x:Static SystemColors.WindowBrushKey}}" Height="240" VerticalAlignment="Top" SelectionChanged="transactionListBox_SelectionChanged"/>
+        <Label x:Name="balanceLabel" Content="Balance:" Margin="0,283,94,0" Height="26" VerticalAlignment="Top" HorizontalAlignment="Right" Width="53"/>
+        <Label x:Name="Balance" Content="$0.00" HorizontalAlignment="Right" Margin="0,281,10,0" VerticalAlignment="Top" Width="79" BorderBrush="{DynamicResource {x:Static SystemColors.WindowTextBrushKey}}" BorderThickness="1"/>
+        <Button x:Name="saveButton" Content="Save" HorizontalAlignment="Left" Margin="10,289,0,0" Width="75" Height="20" VerticalAlignment="Top" Click="saveButton_Click"/>
+        <ListBox x:Name="categoryListBox" Margin="261,36,10,0" Height="240" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="Sort" Margin="261,289,206,0" Height="20" VerticalAlignment="Top" Click="button_Click"/>
+        <Button x:Name="button1" Content="Flip" Margin="316,289,152,0" Click="button1_Click" Height="20" VerticalAlignment="Top"/>
+        <GroupBox x:Name="groupBox" Header="Transaction" HorizontalAlignment="Left" Margin="10,314,0,0" VerticalAlignment="Top" Height="201" Width="497">
+            <Grid Margin="10,10,-2,-12">
+                <Label x:Name="IDLabel" Content="ID:" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="IDTextBox" HorizontalAlignment="Left" Height="23" Margin="39,13,0,0" TextWrapping="Wrap" Text="1" VerticalAlignment="Top" Width="29" RenderTransformOrigin="2.793,3.342" IsReadOnly="True"/>
+                <Label x:Name="typeLabel" Content="Type:" HorizontalAlignment="Left" Margin="73,10,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="typeTextBox" HorizontalAlignment="Left" Height="23" Margin="110,14,0,0" TextWrapping="Wrap" Text="Deposit" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+                <Label x:Name="checkNumLabel" Content="Check Num:" HorizontalAlignment="Left" Margin="310,10,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="checkNumTextBox" HorizontalAlignment="Left" Height="23" Margin="389,13,0,0" TextWrapping="Wrap" Text="000001" VerticalAlignment="Top" Width="78" IsReadOnly="True"/>
+                <Label x:Name="descriptionLabel" Content="Description:" HorizontalAlignment="Left" Margin="0,38,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.403,0.516"/>
+                <TextBox x:Name="descriptionTextBox" HorizontalAlignment="Left" Height="23" Margin="78,42,0,0" TextWrapping="Wrap" Text="Pay" VerticalAlignment="Top" Width="222" IsReadOnly="True"/>
+                <Label x:Name="dateLabel" Content="Date:" HorizontalAlignment="Left" Margin="305,37,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.403,0.516"/>
+                <TextBox x:Name="dateTextBox" HorizontalAlignment="Left" Height="23" Margin="347,41,0,0" TextWrapping="Wrap" Text="12/12/2014" VerticalAlignment="Top" Width="120" IsReadOnly="True"/>
+                <TextBox x:Name="amountInWordsTextBox" HorizontalAlignment="Left" Height="23" Margin="0,68,0,0" TextWrapping="Wrap" Text="One thousand two hundred thirty four and 00/100s Dollars" VerticalAlignment="Top" Width="331" Background="{DynamicResource {x:Static SystemColors.InfoBrushKey}}" IsReadOnly="True"/>
+                <Label x:Name="amountLabel" Content="Amount:" HorizontalAlignment="Left" Margin="331,69,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.403,0.516" Width="53"/>
+                <TextBox x:Name="amountTextBox" HorizontalAlignment="Left" Height="23" Margin="389,73,0,0" TextWrapping="Wrap" Text="$1,234.00" VerticalAlignment="Top" Width="78" IsReadOnly="True"/>
+                <Label x:Name="categoryLabel" Content="Category:" HorizontalAlignment="Left" Margin="5,92,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.403,0.516" Width="68"/>
+                <TextBox x:Name="categoryTextBox" HorizontalAlignment="Left" Height="23" Margin="73,96,0,0" TextWrapping="Wrap" Text="Income" VerticalAlignment="Top" Width="92" IsReadOnly="True"/>
+            </Grid>
+        </GroupBox>
+        <Button x:Name="editButton" Content="Edit (Broken)" HorizontalAlignment="Left" Margin="90,289,0,0" Width="75" Height="20" VerticalAlignment="Top" Click="editButton_Click"/>
+
+    </Grid>
+</Window>

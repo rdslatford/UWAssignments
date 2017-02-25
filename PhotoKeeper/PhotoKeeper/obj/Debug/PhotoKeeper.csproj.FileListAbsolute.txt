@@ -1,0 +1,16 @@
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\bin\Debug\PhotoKeeper.exe.config
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\bin\Debug\PhotoKeeper.exe
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\bin\Debug\PhotoKeeper.pdb
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\PhotoKeeper.csprojResolveAssemblyReference.cache
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\MainWindow.g.cs
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\App.g.cs
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\PhotoKeeper_MarkupCompile.cache
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\PhotoKeeper_MarkupCompile.lref
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\MainWindow.baml
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\PhotoKeeper.g.resources
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\PhotoKeeper.Properties.Resources.resources
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\PhotoKeeper.csproj.GenerateResource.Cache
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\PhotoKeeper.exe
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\PhotoKeeper.pdb
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\AddPhoto.g.cs
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\PhotoKeeper\PhotoKeeper\obj\Debug\AddPhoto.baml

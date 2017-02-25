@@ -1,0 +1,8 @@
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControlsTests\bin\Debug\BindingControlsTests.dll
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControlsTests\bin\Debug\BindingControlsTests.pdb
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControlsTests\bin\Debug\BindingControls.exe
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControlsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControlsTests\bin\Debug\BindingControls.pdb
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControlsTests\obj\Debug\BindingControlsTests.csprojResolveAssemblyReference.cache
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControlsTests\obj\Debug\BindingControlsTests.dll
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControlsTests\obj\Debug\BindingControlsTests.pdb

@@ -1,0 +1,6 @@
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csprojResolveAssemblyReference.cache
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb

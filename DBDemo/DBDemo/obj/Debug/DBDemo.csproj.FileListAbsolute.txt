@@ -1,0 +1,6 @@
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\DBDemo\DBDemo\bin\Debug\DBDemo.exe.config
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\DBDemo\DBDemo\obj\Debug\DBDemo.csprojResolveAssemblyReference.cache
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\DBDemo\DBDemo\bin\Debug\DBDemo.exe
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\DBDemo\DBDemo\bin\Debug\DBDemo.pdb
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\DBDemo\DBDemo\obj\Debug\DBDemo.exe
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\DBDemo\DBDemo\obj\Debug\DBDemo.pdb

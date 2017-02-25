@@ -1,0 +1,26 @@
+﻿<Window x:Class="PhotoKeeper.AddPhoto"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PhotoKeeper"
+        mc:Ignorable="d"
+        Title="Add Photo" Height="280.933" Width="312.712" Loaded="Window_Loaded">
+    <Grid>
+        <Button x:Name="addButton" Content="Add" Margin="0,0,10,10" VerticalAlignment="Bottom" Click="addButton_Click" HorizontalAlignment="Right" Width="75"/>
+        <Button x:Name="cancelButton" Content="Cancel" Margin="0,0,90,10" Height="20" VerticalAlignment="Bottom" Click="cancelButton_Click" HorizontalAlignment="Right" Width="75"/>
+        <Label x:Name="titleLabel" Content="Title" HorizontalAlignment="Left" Margin="10,39,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="artistLabel" Content="Artist" HorizontalAlignment="Left" Margin="10,70,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="fileButton" Content="File" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="66" Height="24" Click="fileButton_Click"/>
+        <TextBox x:Name="imagePathTextBox" Height="23" Margin="81,11,10,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label x:Name="dateTakenLabel" Content="Date Taken" HorizontalAlignment="Left" Margin="10,101,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="descriptionLabel" Content="Description" HorizontalAlignment="Left" Margin="10,132,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="keywordsLabel" Content="Keywords" HorizontalAlignment="Left" Margin="10,0,0,40" VerticalAlignment="Bottom"/>
+        <TextBox x:Name="titleTextBox" Height="23" Margin="81,43,10,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="artistTextBox" Height="23" Margin="81,74,10,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="descriptionTextBox" Margin="81,136,10,70" TextWrapping="Wrap"/>
+        <DatePicker x:Name="takenDatePicker" Margin="81,102,10,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="keywordsTextBox" Height="23" Margin="81,0,10,40" TextWrapping="Wrap" VerticalAlignment="Bottom"/>
+
+    </Grid>
+</Window>

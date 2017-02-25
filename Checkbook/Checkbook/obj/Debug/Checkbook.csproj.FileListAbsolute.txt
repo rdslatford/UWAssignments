@@ -1,0 +1,16 @@
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\bin\Debug\Checkbook.exe.config
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\bin\Debug\Checkbook.exe
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\bin\Debug\Checkbook.pdb
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\Checkbook.csprojResolveAssemblyReference.cache
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\MainWindow.g.cs
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\App.g.cs
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\Checkbook_MarkupCompile.cache
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\Checkbook_MarkupCompile.lref
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\MainWindow.baml
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\Checkbook.g.resources
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\Checkbook.Properties.Resources.resources
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\Checkbook.csproj.GenerateResource.Cache
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\Checkbook.exe
+c:\users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\Checkbook.pdb
+C:\Users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\EditTransaction.g.cs
+C:\Users\rdsla\onedrive\documents\visual studio 2015\Projects\Checkbook\Checkbook\obj\Debug\EditTransaction.baml

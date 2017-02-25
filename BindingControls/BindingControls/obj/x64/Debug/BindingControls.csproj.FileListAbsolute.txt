@@ -1,0 +1,5 @@
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControls\bin\x64\Debug\BindingControls.exe.config
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControls\obj\x64\Debug\MainWindow.g.cs
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControls\obj\x64\Debug\App.g.cs
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControls\obj\x64\Debug\BindingControls_MarkupCompile.cache
+C:\Users\rdsla\OneDrive\Documents\Visual Studio 2015\Projects\BindingControls\BindingControls\obj\x64\Debug\BindingControls_MarkupCompile.lref
